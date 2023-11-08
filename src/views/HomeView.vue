@@ -9,7 +9,7 @@
       <img src="/graphics/logo.png" class="w-12 sm:w-16 m-1" alt="" />
       <h1 class="text-xl sm:text-2xl" v-if="width > 640">Wienwestakademie</h1>
     </div>
-    <div class="col-span-1 flex justify-end" v-if="width < 640">
+    <div id="menubutton" class="col-span-1 flex justify-end" v-if="width <= 900">
       <img
         src="/graphics/menu.png"
         class="w-9 h-9 m-3"
@@ -20,7 +20,7 @@
     <div
       id="desktop"
       class="col-span-1 flex flex-row justify-center items-center gap-16 text-xl mt-0 mb-0"
-      v-if="width > 640"
+      v-if="width > 900"
     >
       <a href="#startpage"><p>Startseite</p></a>
       <a href="#ziele"><p>Ziele</p></a>
@@ -31,7 +31,7 @@
     <div
       id="mobile"
       class="col-span-2 flex flex-col justify-center items-center gap-8 text-xl mt-7 mb-2"
-      v-if="menuShowed && width < 640"
+      v-if="menuShowed && width <= 900"
     >
       <a href="#startpage" @click="menuShowed = false"><p>Startseite</p></a>
       <a href="#ziele" @click="menuShowed = false"><p>Ziele</p></a>
