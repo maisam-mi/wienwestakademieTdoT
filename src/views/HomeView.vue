@@ -161,28 +161,28 @@
           class="mt-24 text-xl grid grid-cols-4 sm:grid-cols-12 gap-10 sm:gap-0"
         >
           <div class="col-span-4 flex flex-col">
-            <h1 class="text-sm sm:text-2xl mb-2 sm:mb-5">
+            <h1 class="text-md sm:text-2xl mb-2 sm:mb-5">
               Programmiersprachen
             </h1>
-            <p class="text-xs sm:text-base">python</p>
-            <p class="text-xs sm:text-base">Javascript</p>
-            <p class="text-xs sm:text-base">C#</p>
-            <p class="text-xs sm:text-base">SQL</p>
-            <p class="text-xs sm:text-base">CSS</p>
+            <p class="text-sm sm:text-base">python</p>
+            <p class="text-sm sm:text-base">Javascript</p>
+            <p class="text-sm sm:text-base">C#</p>
+            <p class="text-sm sm:text-base">SQL</p>
+            <p class="text-sm sm:text-base">CSS</p>
           </div>
           <div class="col-span-4 flex flex-col">
-            <h1 class="text-sm sm:text-2xl mb-2 sm:mb-5">Softwares</h1>
-            <p class="text-xs sm:text-base">Visual Studio Code</p>
-            <p class="text-xs sm:text-base">Docker</p>
-            <p class="text-xs sm:text-base">Open edx</p>
-            <p class="text-xs sm:text-base">Premier Pro</p>
-            <p class="text-xs sm:text-base">Audition</p>
-            <p class="text-xs sm:text-base">Adobe xd</p>
-            <p class="text-xs sm:text-base">Figma</p>
+            <h1 class="text-md sm:text-2xl mb-2 sm:mb-5">Softwares</h1>
+            <p class="text-sm sm:text-base">Visual Studio Code</p>
+            <p class="text-sm sm:text-base">Docker</p>
+            <p class="text-sm sm:text-base">Open edx</p>
+            <p class="text-sm sm:text-base">Premier Pro</p>
+            <p class="text-sm sm:text-base">Audition</p>
+            <p class="text-sm sm:text-base">Adobe xd</p>
+            <p class="text-sm sm:text-base">Figma</p>
           </div>
           <div class="col-span-4 flex flex-col">
-            <h1 class="text-sm sm:text-2xl mb-2 sm:mb-5">Frameworks</h1>
-            <p class="text-xs sm:text-base">Django</p>
+            <h1 class="text-md sm:text-2xl mb-2 sm:mb-5">Frameworks</h1>
+            <p class="text-sm sm:text-base">Django</p>
           </div>
         </div>
       </div>
