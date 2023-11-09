@@ -164,20 +164,20 @@
             <h1 class="text-md sm:text-2xl mb-2 sm:mb-5">
               Programmiersprachen
             </h1>
-            <p class="text-sm sm:text-base">python</p>
-            <p class="text-sm sm:text-base">Javascript</p>
+            <p class="text-sm sm:text-base">Python</p>
+            <p class="text-sm sm:text-base">JavaScript</p>
             <p class="text-sm sm:text-base">C#</p>
             <p class="text-sm sm:text-base">SQL</p>
             <p class="text-sm sm:text-base">CSS</p>
           </div>
           <div class="col-span-4 flex flex-col">
-            <h1 class="text-md sm:text-2xl mb-2 sm:mb-5">Softwares</h1>
+            <h1 class="text-md sm:text-2xl mb-2 sm:mb-5">Software</h1>
             <p class="text-sm sm:text-base">Visual Studio Code</p>
             <p class="text-sm sm:text-base">Docker</p>
-            <p class="text-sm sm:text-base">Open edx</p>
-            <p class="text-sm sm:text-base">Premier Pro</p>
-            <p class="text-sm sm:text-base">Audition</p>
-            <p class="text-sm sm:text-base">Adobe xd</p>
+            <p class="text-sm sm:text-base">Open edX</p>
+            <p class="text-sm sm:text-base">Adobe Premier Pro</p>
+            <p class="text-sm sm:text-base">Adobe Audition</p>
+            <p class="text-sm sm:text-base">Adobe XD</p>
             <p class="text-sm sm:text-base">Figma</p>
           </div>
           <div class="col-span-4 flex flex-col">
