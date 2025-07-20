@@ -1,24 +1,10 @@
-# Vue 3, Vite Template
-
-This is a template for a Vue 3 project using the [Vite](https://vitejs.dev/) build tool.
-
-## Usage
-
-To use this template, run the following command to generate a new project based on this template:
-
-```
-npx degit hossaini310/vv3-templ your-project
-```
-
-This will create a new directory called your-project that contains the files from this template. Next, navigate to the new directory with `cd your-project` and install the required dependencies with `npm install`. Once the dependencies are installed, the website can be started with `npm run dev` which will start a development server with hot reloading enabled. For production builds, you can use `npm run build` which will create a minified version of your application in the dist directory.
+### Wienwestakademie Presentation
 
 ### Setup
 
-The following steps are required to set up and use this template:
+The following steps are required to set up to excecute the project:
 
-1. Generate a new project based on this template with the command:
-   `npx degit hossaini310/express-templ your-project`
-2. Install the required dependencies with `npm install`
+1. Install the required dependencies with `npm install`
 3. Start the development server with `npm run dev`
 
 Once the development server has started, you can access the application in your browser at http://localhost:8080. For production builds, you can use `npm run build` which will create a minified version of your application in the dist directory.
